@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a **Full Stack Developer** with a strong passion for 
 I'm a passionate Full Stack Developer with experience in building dynamic web applications and scalable digital solutions. I specialize in both frontend and backend development, ensuring seamless user experiences and efficient system architecture.  
 
 ### 💼 What I Do  
-- 🔹 **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery
+- 🔹 **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery, React
 - 🔹 **Backend**: PHP (Laravel), Python (Django)
 - 🔹 **Database**: MySQL, MSSQL 
 - 🔹 **Other Skills**: API Development, Third-Party Integrations
